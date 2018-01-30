@@ -1,1 +1,3 @@
 In the vehicles.py, I creat fout pictures,including 2 scaterplots and  2 histograms. They proved a more intuitional analyz way from csv file of vehicles. In the new_bootstrap, the code calculated the standard deviation and found the upper bound and lower bound.
+
+![logo](./hist_vehi.png?raw=true)
