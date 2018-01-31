@@ -14,3 +14,5 @@ function:
 def boostrap(statistic_func, iterations, data)
 
 The function would return 3 parameters,it's mean ,lower bound and  upper bound.
+data = df.values.T[0]
+data = df.values.T[1] This is used to restore the first and second columns, then called the bootstrap function.
