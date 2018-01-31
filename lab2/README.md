@@ -6,4 +6,4 @@ This histogram show the ralation between the day and sales.as you can see it dra
 
 ![logo](./scate_vehi.png?raw=true)
 
-This is the scatterplots of vehicles.csv. This picture show the distribution of current fleet and new fleet.
+This is the scatterplots of vehicles.csv. This picture show the distribution of current fleet and new fleet.Thorough this scatterploy, you can see the how far the each point.
