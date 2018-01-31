@@ -7,3 +7,10 @@ This histogram show the ralation between the day and sales.as you can see it dra
 ![logo](./scate_vehi.png?raw=true)
 
 This is the scatterplots of vehicles.csv. This picture show the distribution of current fleet and new fleet.Thorough this scatterploy, you can see the how far the each point.It's easy to achieved through the python.
+
+In the new_bootstrap.py,  This is used to  find the confidence interval. I used
+function:
+
+def boostrap(statistic_func, iterations, data)
+
+The function would return 3 parameters,it's mean ,lower bound and  upper bound.
