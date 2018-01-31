@@ -2,7 +2,7 @@ In the vehicles.py, I creat four pictures,including 2 scaterplots and  2 histogr
 
 ![logo](./hist_vehi.png?raw=true)
 
-This histogram show the ralation between the day and sales.as you can see it draw the distribution of those number. You can easies concluded some information from this histogram. we can see the 30 to 35 days have the highest sales in the cars.
+This histogram show the relation between the day and sales.as you can see it draw the distribution of those number. You can easies concluded some information from this histogram. we can see the 30 to 35 days have the highest sales in the cars.
 
 ![logo](./scate_vehi.png?raw=true)
 
