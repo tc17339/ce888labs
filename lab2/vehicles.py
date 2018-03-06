@@ -37,10 +37,8 @@ if __name__ == "__main__":
 	sns_plot.savefig("scate_vehi.png",bbox_inches='tight')
 	sns_plot.savefig("scate_vehi.pdf",bbox_inches='tight')
 
-	data_a = df.values.T[1]
-	print(data_a)
-	data_b = df.values.T[0]
-	print(data_b)
+	data = df.values.T[1]
+	print(data)
 	
 	print((("Mean: %f")%(np.mean(data))))
 	print((("Median: %f")%(np.median(data))))
