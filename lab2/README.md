@@ -1,4 +1,4 @@
-1 -current fleet:
+  1 -current fleet:
 histogram:
 ![logo](./current_fleet_histogram.png?raw=true)
 scatterplot:
