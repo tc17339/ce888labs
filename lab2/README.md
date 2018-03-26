@@ -1,9 +1,8 @@
 1- current fleet:
-
-histogram:
+   histogram:
 ![logo](./current_fleet_histogram.png?raw=true)
 
-scatterplot:
+   scatterplot:
 ![logo](./current_fleet_plot.png?raw=true)
 
 2 -proposed fleet
@@ -11,6 +10,7 @@ histogram:
 ![logo](./proposed_fleet_histogram.png?raw=true)
 
 scatterplot:
+
 ![logo](./proposed_fleet_plot.png?raw=true)
 
 
